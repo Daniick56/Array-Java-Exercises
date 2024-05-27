@@ -61,8 +61,7 @@ public class Main {
             }
         }
         
-        //verifiando cual persona es la mayor de todas y cual es la menor:
-
+        //verificando cual persona es la mayor de todas y cual es la menor:
         personaMayor = edades[0];
         personaMenor = edades[0];
         for (int i = 0; i < edades.length; i++) {
